@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      Javohir solo
+      solo emas bot u
     </>
   )
 }
